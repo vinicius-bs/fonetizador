@@ -1,0 +1,23 @@
+regras:
+-Todas as letras maíusculas
+-Remove todas as preposições
+-Remove caracter duplicado (exceto ss)
+-Remove os acentos
+-Troca letra "O" por "U" no final da palavra
+-Usa-se S na maioria das palavras terminadas em /aza/, /aze/, /azo/, /eza/, /eze/, /ezo/, /iza/, /ize/, /izo/, /oza/, /oze/ e /ozo/
+-/SS/ tem som de /S/, SS trocado por S
+-Ç trocado por S
+-L + consoante (menos com H) tem som de /u/
+-C com som de S (ci --> si, ce --> se)
+-SCI por SI
+-C + A/O/U vira K
+-Troca CH por X
+-Tirar S ou Z do final, evitar plural
+-Z + Consoante vira S
+-M mais consoante vira N
+-Troca NH por NI
+-Troca Y por I
+-Troca LH por LI
+-Tira H mudo
+-Troca QUA e QUO por KUA e KUO, respectivamente
+-Troca QUE e QUI por KE e KI, respectivamente
