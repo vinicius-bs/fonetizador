@@ -1,0 +1,4 @@
+fonetizador
+===========
+
+Stored procedures, Funções e triggers em mysql que fonetizam um nome. Ajuda no processo de otimização de consultas, pois usando o nome fonetizado através de regras de português (fonemas) conseguimos agrupar um maior número de nomes escritos de uma forma diferente, porém com a mesma pronúncia. Ainda não foram implementadas todas as regras.
